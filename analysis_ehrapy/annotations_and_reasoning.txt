@@ -1,0 +1,110 @@
+Inflammation:
+
+right: 
+0: PCT high normal (low meaurements number?, cause min also high normal), lympho % up (mod), broder 0,1 neutrophilie transcient
+1: monocytose (acute, avg normal), acute WBC up (moderatly), acute PCT (normal avg), on avg normal to low lympho % (but acute spike), subacute neutrophilie
+4: monocytose (acute, avg normal), leukopenia + leukocytosis (> 1) (acute), lower parts cluster higher PCT also on avg, upper parts lympho count bit lower than rest, lympho % up (mod)
+6: lower eosinophils than rest, lower cluster parts monoctyose (acute, avg also bit high), upper parts cluster lactate avg high (but might be due to low number of measurements), PCT normal (no acute spikes), lympho % up (mod), lower parts neutrophilie, ADA down lower part (min) deficiency
+13: higher max basophils, but in normal range, higher PCT on avg, lympho % up (mod)
+
+
+but overall no real lymphocytosis
+cluster 4: few g+ cocci
+vitals signs: 0,1 (0 especially border area to 1): HR + RR mod above avg (spikes ubiqutary), respiratory more cluster 4
+lower parts 6,4,1: more excrement (band of klebsiella)
+more males in general
+ADA higher in death clusters!! in 6 and 2 (no measurement in 5)
+very low ADA in lower part of 4 and higher temp
+
+====================================
+lower:
+2: bit lower eosinos than rest, upper parts neutrophilie, bissl lower lymphos
+3: acute monoctyosis, PCT up acute normal high avg
+14: acute monocytosis, slightly more basophiles (normal), WBC up (acute) especially lower parts, PCT up acute normal high avg, acute lmyphocytois (avg less than border 2/3), neutrophilie
+16: bit more moderate monocytosis, PCT up acute normal high avg, acute lymphos (avg less than border 2/3)
+
+border 2/3 really similar
+border 2/3 WBC up (acute) + pCT acute
+2/3 right part: significant lymphos % up 
+
+subcluster 2!
+especially cluster 14 showed vital signs reactions, small pseudomonas, non ferm bact, g+/- bacillus, g+ cocci
+some candida 14 border 2/3
+===============================
+middle left + upper left
+7: more chronic monocytosis (avg also slightly up), some basophils, WBC acute up, PCT up acute, lymphocytosis and lymphopenia (on avg lower than most other clusters), neutrophilie, small pseumonas subcluster, some klebsiella
+9: some lymphos normal
+10: moderate monocytosis (acute)
+15: some lymphos normal
+
+most showed upper RR sometimes, 7 respiratory rates up
+10/9 some ADA
+
+=========================
+middle middle
+5: mod monoctyoes
+8: bissl neutros, bissl PCT
+11:
+12: bissl eosinos, bissl monocytes (acute), bissl basos, WBC, bissl PCT, bissl neutros
+
+
+subluster 12: little island to the left seems very different
+on avg: normal lympho levels (absolute) despite % up/low
+8 some acute ADA
+
+12/13 cluster: lowr age
+death: lower 5, 6, lower + middle 2
+
+dont forget about surgeries!!!
+
+=======================================
+hepatobiliar system
+=======================================
+right
+ 
+0: 
+1: some icteric, slighlty lower CHE levels (but low normal), bit more total protein, lower parts mod uric acid up and bile acid up, acute AST/ALT higher, on avg ok, upper right little amylase
+4: some icteric, partly mod lower
+6: CHE lower, prealbu lower (cave: acute phase prot), prot bit lower, upper ALT/AST higher (death ones, not surviving ones in 6), death ones bit lower albumin + a/g ratio
+13: icteric serum ++, CHE lower, prealbu lower (cave: acute phase prot), prot bit lower, high billi total (+ (in)dirct), high bile acids, GGt+,
+AST/ALT higher, AP higher, bit low albumin
+
+subcluster 13: in relation to hepatob system left and right part seem different
+cluster 1 is CICU
+13 and left part of 1: younger childs 2 months or so
+
+left lower:
+
+2: high lipase, some icteric serums index, CHE mod low (lower right part not so much), prealbumin little bit lower (inflamm?), low normal protein total, small cluster with high total/dir/indir billi, bile acid (lower right) (but no GGT, not very high AP) , some urea, some AST acute
+3:
+14: CHE mod low (some icteric), uric acid mod higher sometimes, low normal protein total, bit more triglycerides (acute, maybe after feeding), some high bile acid max, some GGT high some cholesterin high, some urea, some AST acute
+16:
+
+albu pretty ok, maybe bit lw normal in 2/14
+
+left middle
+
+7: some icteric, bit low CHE, slight uric acid high, high normal total protein (especially right upper, billi and bile acid slightly high), AST high, ALT
+9:
+10:
+15:
+
+AP/GGT fine
+7 is CICU cluster!
+
+middle middle
+5:
+8:
+11:
+12: icteric, CHE mod lower, prealbu min lower (maybe acute phase?), low proteins, high total/dir/indir billi, high bile acids (also on avg),  GGT high, AST/ALT,AP as well, low normal Albumin
+
+cave : 12 is young ppl
+
+
+1,8,7 all CICU!! but different?!?!?
+
+issues i tried to address: avg could lead to false positive due to diff (lower) number of measurements -> flaws, should be adressed in study design/data collection
+take median and mean (mean high median high; low number of measurements? same with mean high median low, etc)
+HOW THE FUCK CAN WE INCLUDE A TIME CONSTANT, PROGRESS??? NEEEEEEED
+add H/L per max min
+add more lab vals?, add symptoms??
